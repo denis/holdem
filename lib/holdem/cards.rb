@@ -1,5 +1,5 @@
 module Holdem
-  class Holdem::Cards
+  class Cards
     def initialize
       @cards = []
     end
